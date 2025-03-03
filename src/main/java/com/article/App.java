@@ -16,7 +16,7 @@ public class App {
 
     public static void main(String[] args) throws UnsupportedEncodingException, IOException {
         if (args.length != 3) {
-            System.out.println("用法: java -jar checker.jar <原文路径> <抄袭版路径> <输出路径>");
+            System.out.println("需要输入三个参数 用法: java -jar checker.jar <原文路径> <抄袭版路径> <输出路径>");
             return;
         }
 

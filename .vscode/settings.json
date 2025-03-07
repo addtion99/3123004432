@@ -1,0 +1,7 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.test.config": {
+    "vmArgs": ["-Djunit.consoleoutput=true"],
+    "console": "integratedTerminal"
+  }
+}
